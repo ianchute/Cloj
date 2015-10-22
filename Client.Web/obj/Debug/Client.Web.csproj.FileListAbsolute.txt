@@ -1,0 +1,17 @@
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\roslyn\csc.exe
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\roslyn\vbc.exe
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\Client.Web.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\Client.Web.pdb
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\obj\Debug\Client.Web.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\obj\Debug\Client.Web.pdb
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Client.Web\bin\Client.Web.dll.config

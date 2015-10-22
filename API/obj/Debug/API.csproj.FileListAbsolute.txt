@@ -1,0 +1,80 @@
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\AutoMapper.Net4.dll
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\API.dll.config
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\API.dll
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\API.pdb
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\AutoMapper.dll
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\Newtonsoft.Json.dll
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\nunit.framework.dll
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\StructureMap.dll
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\StructureMap.Net4.dll
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\System.Net.Http.Formatting.dll
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\System.Web.Http.dll
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\System.Web.Http.WebHost.dll
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\AutoMapper.pdb
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\AutoMapper.xml
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\AutoMapper.Net4.pdb
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\nunit.framework.xml
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\StructureMap.pdb
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\StructureMap.xml
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\StructureMap.Net4.pdb
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\Newtonsoft.Json.xml
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\System.Net.Http.Formatting.xml
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\System.Web.Http.xml
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\bin\System.Web.Http.WebHost.xml
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\obj\Debug\API.dll
+C:\Users\ian\Documents\Visual Studio 2013\Projects\API\API\obj\Debug\API.pdb
+C:\_\API\API\bin\AutoMapper.Net4.dll
+C:\_\API\API\bin\API.dll.config
+C:\_\API\API\bin\API.dll
+C:\_\API\API\bin\API.pdb
+C:\_\API\API\bin\AutoMapper.dll
+C:\_\API\API\bin\Newtonsoft.Json.dll
+C:\_\API\API\bin\nunit.framework.dll
+C:\_\API\API\bin\StructureMap.dll
+C:\_\API\API\bin\StructureMap.Net4.dll
+C:\_\API\API\bin\System.Net.Http.Formatting.dll
+C:\_\API\API\bin\System.Web.Http.dll
+C:\_\API\API\bin\System.Web.Http.WebHost.dll
+C:\_\API\API\bin\AutoMapper.pdb
+C:\_\API\API\bin\AutoMapper.xml
+C:\_\API\API\bin\AutoMapper.Net4.pdb
+C:\_\API\API\bin\nunit.framework.xml
+C:\_\API\API\bin\StructureMap.pdb
+C:\_\API\API\bin\StructureMap.xml
+C:\_\API\API\bin\StructureMap.Net4.pdb
+C:\_\API\API\bin\Newtonsoft.Json.xml
+C:\_\API\API\bin\System.Net.Http.Formatting.xml
+C:\_\API\API\bin\System.Web.Http.xml
+C:\_\API\API\bin\System.Web.Http.WebHost.xml
+C:\_\API\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\_\API\API\obj\Debug\API.dll
+C:\_\API\API\obj\Debug\API.pdb
+C:\_\API\API\bin\System.Web.Cors.dll
+C:\_\API\API\bin\System.Web.Http.Cors.dll
+C:\_\API\API\bin\System.Web.Http.Cors.xml
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\Domain.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\API.dll.config
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\API.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\API.pdb
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\Newtonsoft.Json.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\System.Net.Http.Formatting.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\System.Web.Cors.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\System.Web.Http.Cors.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\System.Web.Http.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\System.Web.Http.WebHost.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\Clojure.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\Microsoft.Dynamic.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\Microsoft.Scripting.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\Microsoft.Scripting.Metadata.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\System.Net.Http.Formatting.xml
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\System.Web.Http.xml
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\System.Web.Http.Cors.xml
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\Newtonsoft.Json.xml
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\System.Web.Http.WebHost.xml
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\Microsoft.Dynamic.xml
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\Microsoft.Scripting.xml
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\bin\Microsoft.Scripting.Metadata.xml
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\obj\Debug\API.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\API\obj\Debug\API.pdb

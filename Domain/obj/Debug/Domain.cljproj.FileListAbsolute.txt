@@ -1,0 +1,8 @@
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Domain\bin\Debug\Clojure.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Domain\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Domain\bin\Debug\Microsoft.Scripting.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Domain\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Domain\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Domain\bin\Debug\Microsoft.Scripting.xml
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Domain\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\ian\Documents\Visual Studio 2015\Projects\Cloj\Domain\obj\Debug\Domain.cljprojResolveAssemblyReference.cache

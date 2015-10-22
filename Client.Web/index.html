@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+
+
+    
+
+</head>
+<body ng-app="App">
+
+    <div >
+        {{ 1 + 1 }}
+    </div>
+    
+    <div ng-controller="CustomerController">
+        <p ng-bind="AddedCustomer"></p>
+        <button ng-click="AddCustomer()">Add Customer</button>
+    </div>
+
+    <script src="Scripts/angular.min.js"></script>
+
+    <script src="Services/module.js"></script>
+    <script src="Services/customer.js"></script>
+
+    <script src="Controllers/module.js"></script>
+    <script src="Controllers/customer.js"></script>
+
+    <script src="module.js"></script>
+
+</body>
+</html>
